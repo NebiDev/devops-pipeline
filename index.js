@@ -1,2 +1,3 @@
 console.log('hello devops');
 console.log('i am learning CI/CD pipeline');
+console.log('i am learning DevOps');
